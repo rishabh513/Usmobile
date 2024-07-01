@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db7d508a-5556-4e1d-b44b-1ad25d100673" name="Changes" comment="" />
+    <list default="true" id="db7d508a-5556-4e1d-b44b-1ad25d100673" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,6 +73,7 @@
     "JUnit.UserControllerTest.testGetAllUsers.executor": "Run",
     "JUnit.UserControllerTest.testUpdateUser_Success.executor": "Run",
     "JUnit.controller in Us-Mobile-Assignment.executor": "Coverage",
+    "JUnit.java in Us-Mobile-Assignment.executor": "Run",
     "Maven.Unknown [install].executor": "Run",
     "Maven.Us-Mobile-Assignment [clean].executor": "Run",
     "Maven.Us-Mobile-Assignment [compile].executor": "Run",
@@ -305,7 +309,7 @@
       <workItem from="1719788232457" duration="16153000" />
       <workItem from="1719808395451" duration="747000" />
       <workItem from="1719845259101" duration="151000" />
-      <workItem from="1719845422244" duration="12545000" />
+      <workItem from="1719845422244" duration="12954000" />
     </task>
     <servers />
   </component>
