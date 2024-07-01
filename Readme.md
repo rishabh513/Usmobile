@@ -151,10 +151,6 @@ Input validation is performed using a custom `Validator` class. This ensures tha
 - Path Variable: `userId`
 - Body: New MDN in JSON format
 
-5. **Get User by ID and MDN**
-- Endpoint: `GET /api/users/{userId}/{mdn}`
-- Description: Retrieves a specific user by their ID and MDN.
-- Path Variables: `userId`, `mdn`
 
 ## Error Handling
 The service throws CustomException for various error conditions, such as:
